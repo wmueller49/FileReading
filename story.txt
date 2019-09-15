@@ -1,0 +1,2 @@
+It was a <adjective> day when <name> 
+went for a walk.
